@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1718411511 source:c:\users\shiva\onedrive - richfield graduate institute of technology\year 2\semester 1\programming 621\first program\moodle\main.cpp
+	<iostream>
+	<cmath>
+	<cctype>
+	<iomanip>
+	<iomanip>
+	<cstring>
+	<iostream>
+
