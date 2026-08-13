@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1730238454 source:c:\users\shiva\onedrive - richfield graduate institute of technology\year 2\semester 1\programming 621\first program\sem2assignment\main.cpp
+	<string>
+	<vector>
+	<memory>
+	<algorithm>
+	<string>
+	<vector>
+	<memory>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<cstring>
+	<vector>
+	<string>
+	<memory>
+	<algorithm>
+	<map>
+	<iostream>
+	<vector>
+	<string>
+	<memory>
+	<map>
+

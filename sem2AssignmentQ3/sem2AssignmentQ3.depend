@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1730224021 source:c:\users\shiva\onedrive - richfield graduate institute of technology\year 2\semester 1\programming 621\first program\sem2assignmentq3\main.cpp
+	<unordered_map>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<fstream>
+	<map>
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<fstream>
+
